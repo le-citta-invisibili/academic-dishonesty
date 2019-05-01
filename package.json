@@ -5,8 +5,7 @@
   "repository": "https://github.com/le-citta-invisibili/academic-dishonesty",
   "scripts": {
     "ng": "ng",
-    "start": "node server.js",
-    "bandr": "ng build && node server.js",
+    "start": "ng build && node server.js",
     "test": "ng test",
     "lint": "ng lint",
     "e2e": "ng e2e"
