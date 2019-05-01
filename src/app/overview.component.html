@@ -2,14 +2,13 @@
   <div class="items">
 
     <div class="item intro span-2">
-      <h1>Parallelism</h1>
-      <p>A responsive portfolio site<br />
-      template by HTML5 UP</p>
+      <h1>Monsters University</h1>
+      <p>A series of pieces on academic dishonesty</p>
     </div>
 
     <article *ngFor="let article of top_articles" class="item thumb span-{{article.width}}">
-      <h2>{{article.name}}</h2>
-      <a href="/feature/{{article.name}}"><img src="images/thumbs/{{article.image}}" alt=""></a>
+      <h2>{{article.title || article.name}}</h2>
+      <a href="/feature/{{article.name}}"><img src="images/{{article.image}}" alt=""></a>
     </article>
 
   </div>
@@ -18,8 +17,8 @@
   <div class="items">
 
     <article *ngFor="let article of bottom_articles" class="item thumb span-{{article.width}}">
-      <h2>{{article.name}}</h2>
-      <a href="/feature/{{article.name}}"><img src="images/thumbs/{{article.image}}" alt=""></a>
+      <h2>{{article.title || article.name}}</h2>
+      <a href="/feature/{{article.name}}"><img src="images/{{article.image}}" alt=""></a>
     </article>
 
   </div>

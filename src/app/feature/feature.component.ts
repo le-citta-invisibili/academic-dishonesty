@@ -13,6 +13,7 @@ export class FeatureComponent implements OnInit {
   image: string;
   text: string;
   link: string;
+  title: string;
 
   constructor(private route: ActivatedRoute, private addJSService: AddJSService, private featureService: FeatureService) {}
 
@@ -22,11 +23,10 @@ export class FeatureComponent implements OnInit {
     });
 
     this.featureService.getAllFeatures().subscribe((data: any) => {
-      console.log(data);
-      console.log(data[this.name]);
       this.image = data[this.name].image;
       this.text = data[this.name].text;
       this.link = data[this.name].link;
+      this.title = data[this.name].title || this.name;
     });
 
     this.loadScripts();

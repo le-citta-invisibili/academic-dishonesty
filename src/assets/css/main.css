@@ -171,7 +171,7 @@ input, select, textarea {
 	}
 
 		a:hover {
-			color: #d64760;
+			color: #a20000;
 		}
 
 	h1, h2, h3, h4, h5, h6 {
@@ -384,7 +384,7 @@ input, select, textarea {
 			}
 
 			#main .item.intro {
-				background-color: #d64760;
+				background-color: #a20000;
 				background-image: url("images/overlay.png");
 				display: -moz-flex;
 				display: -webkit-flex;

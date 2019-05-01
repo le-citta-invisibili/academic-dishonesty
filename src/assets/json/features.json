@@ -1,9 +1,10 @@
 {
-  "avocado": {
-    "image": "01.jpg",
+  "my-case": {
+    "image": "abstract.png",
     "width": 1,
-    "text": "Lorem ipsum",
-    "link": "https://www.google.com/"
+    "text": "About a year ago I took the unthinkable step of breaching Haverford's academic honor code, and I've been confronting that fact intellectually and emotionally ever since. Perhaps the most substantial lesson I've learned is the importance of understanding what it feels like to decide to do the wrong thing, and being able to identify the traits of misdoers in yourself. I describe these ideas in more detail in my letter to the community, enclosed at the bottom of my abstract; I invite you to give it a read.",
+    "link": "http://honorcouncil.haverford.edu/wp-content/uploads/2019/04/Monsters-University.pdf",
+    "title": "My Case"
   },
   "pumpkin": {
     "image": "02.jpg",
@@ -47,13 +48,13 @@
     "text": "Lorem ipsum",
     "link": "https://www.google.com/"
   },
-  "wristwatch": {
+  "avocado": {
     "image": "05.jpg",
     "width": 3,
     "text": "Lorem ipsum",
     "link": "https://www.google.com/"
   },
-  "wolverine": {
+  "wristwatch": {
     "image": "06.jpg",
     "width": 1,
     "text": "Lorem ipsum",
