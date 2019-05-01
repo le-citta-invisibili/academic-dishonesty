@@ -10,7 +10,7 @@
 			$a = $this.find('a'),
 			b = [];
 
-		$a.each(function() {
+		/*$a.each(function() {
 
 			var	$this = $(this),
 				indent = Math.max(0, $this.parents('li').length - 1),
@@ -30,7 +30,7 @@
 
 		});
 
-		return b.join('');
+		return b.join('');*/
 
 	};
 
@@ -146,7 +146,7 @@
 					$this.find('a')
 						.css('-webkit-tap-highlight-color', 'rgba(0,0,0,0)');
 
-					$this
+					/* $this
 						.on('click', 'a', function(event) {
 
 							var $a = $(this),
@@ -173,7 +173,7 @@
 
 								}, config.delay + 10);
 
-						});
+						}); */
 
 				}
 
@@ -255,7 +255,7 @@
 				});
 
 			// Event: Hide panel if a child anchor tag pointing to its ID is clicked.
-				$this.on('click', 'a[href="#' + id + '"]', function(event) {
+				/* $this.on('click', 'a[href="#' + id + '"]', function(event) {
 
 					event.preventDefault();
 					event.stopPropagation();
@@ -279,7 +279,7 @@
 
 					config.target.toggleClass(config.visibleClass);
 
-				});
+				}); */
 
 		// Window.
 

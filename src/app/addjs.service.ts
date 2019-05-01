@@ -12,7 +12,7 @@ export const ScriptStore: Scripts[] = [
 declare var document: any;
 
 @Injectable()
-export class PoptroxService {
+export class AddJSService {
 
   private scripts: any = {};
 

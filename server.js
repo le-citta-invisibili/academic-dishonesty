@@ -6,13 +6,20 @@ const bodyParser = require("body-parser");
 const app = express();
 app.use(bodyParser.json());
 
+const data = require("./dist/academic-dishonesty/assets/json/features.json");
+
 function handleError(res, reason, message, code) {
   console.log("ERROR: " + reason);
   res.status(code || 500).json({"error": message});
 }
 
+app.get("/assets/json/features.json", function (req, res) {
+  res.json(data);
+});
+
 // Point static path to dist
 app.use(express.static(path.join(__dirname, 'dist/academic-dishonesty')));
+app.use('/images', express.static(path.join(__dirname, 'src/images')))
 
 // Catch all other routes and return the index file
 app.get('*', (req, res) => {

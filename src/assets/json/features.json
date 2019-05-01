@@ -1,0 +1,104 @@
+{
+  "avocado": {
+    "image": "01.jpg",
+    "width": 1,
+    "text": "Lorem ipsum",
+    "link": "https://www.google.com/"
+  },
+  "pumpkin": {
+    "image": "02.jpg",
+    "width": 2,
+    "text": "Lorem ipsum",
+    "link": "https://www.google.com/"
+  },
+  "eggshell": {
+    "image": "03.jpg",
+    "width": 1,
+    "text": "Lorem ipsum",
+    "link": "https://www.google.com/"
+  },
+  "footprint": {
+    "image": "04.jpg",
+    "width": 1,
+    "text": "Lorem ipsum",
+    "link": "https://www.google.com/"
+  },
+  "cornfield": {
+    "image": "05.jpg",
+    "width": 3,
+    "text": "Lorem ipsum",
+    "link": "https://www.google.com/"
+  },
+  "tuba": {
+    "image": "06.jpg",
+    "width": 1,
+    "text": "Lorem ipsum",
+    "link": "https://www.google.com/"
+  },
+  "pretzel": {
+    "image": "07.jpg",
+    "width": 2,
+    "text": "Lorem ipsum",
+    "link": "https://www.google.com/"
+  },
+  "grapefruit": {
+    "image": "08.jpg",
+    "width": 2,
+    "text": "Lorem ipsum",
+    "link": "https://www.google.com/"
+  },
+  "wristwatch": {
+    "image": "05.jpg",
+    "width": 3,
+    "text": "Lorem ipsum",
+    "link": "https://www.google.com/"
+  },
+  "wolverine": {
+    "image": "06.jpg",
+    "width": 1,
+    "text": "Lorem ipsum",
+    "link": "https://www.google.com/"
+  },
+  "marbles": {
+    "image": "07.jpg",
+    "width": 2,
+    "text": "Lorem ipsum",
+    "link": "https://www.google.com/"
+  },
+  "coconut": {
+    "image": "08.jpg",
+    "width": 2,
+    "text": "Lorem ipsum",
+    "link": "https://www.google.com/"
+  },
+  "apricot": {
+    "image": "01.jpg",
+    "width": 1,
+    "text": "Lorem ipsum",
+    "link": "https://www.google.com/"
+  },
+  "airplane": {
+    "image": "02.jpg",
+    "width": 2,
+    "text": "Lorem ipsum",
+    "link": "https://www.google.com/"
+  },
+  "chameleon": {
+    "image": "03.jpg",
+    "width": 1,
+    "text": "Lorem ipsum",
+    "link": "https://www.google.com/"
+  },
+  "closet": {
+    "image": "04.jpg",
+    "width": 2,
+    "text": "Lorem ipsum",
+    "link": "https://www.google.com/"
+  },
+  "tuxedo": {
+    "image": "05.jpg",
+    "width": 1,
+    "text": "Lorem ipsum",
+    "link": "https://www.google.com/"
+  }
+}
