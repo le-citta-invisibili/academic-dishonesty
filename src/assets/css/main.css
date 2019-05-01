@@ -325,7 +325,7 @@ input, select, textarea {
 
 /* Main */
 
-	#main {
+	#main, #main app-overview {
 		-moz-transition: opacity 1s ease-in-out;
 		-webkit-transition: opacity 1s ease-in-out;
 		-ms-transition: opacity 1s ease-in-out;
