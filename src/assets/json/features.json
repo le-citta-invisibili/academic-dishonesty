@@ -16,7 +16,7 @@
   "percent": {
     "image": "brooke-cagle-609873-unsplash.jpg",
     "width": 1,
-    "text": "It depends on who you ask. Taking a look at some of the academic papers on this site, reported numbers range from 50% to 80%. A number of factors dramatically influence that likelihood, including elements of student demographics and campus culture. For several reasons, including the liberal arts nature of academic programs, de-emphasis of grades, and strong community engagement with the Honor Code, I suspect that the proporton at Haverford is somewhat lower.",
+    "text": "It depends on who you ask. Taking a look at some of the academic papers on this site, between 50% to 80% of students report committing academic dishonesty at some point during college. A number of factors influence that likelihood, including elements of student demographics and campus culture. For several reasons, including the liberal arts nature of academic programs, de-emphasis of grades, and strong community engagement with the Honor Code, I suspect that the proporton at Haverford is somewhat lower.",
     "link": null,
     "title": "How many students cheat?"
   },
@@ -67,11 +67,12 @@
     "link": "https://www.npr.org/2016/06/28/483263713/the-cheaters-high-and-other-reasons-we-cheat",
     "title": "Cheater's high"
   },
-  "marbles": {
-    "image": "07.jpg",
+  "ghost": {
+    "image": "npr-ghost.jpg",
     "width": 2,
-    "text": "Lorem ipsum",
-    "link": "https://www.google.com/"
+    "text": "In researching academic dishonesty I came across a method of cheating completely unheard of to me before, perhaps because of my major: contract ghostwriting. Informally or by way of paid sites known as esssay mills, students pay another person to write essays for them. Flabbergastingly, about 16% of students report having paid someone for schoolwork. I know firsthand that writing papers can be unpredictably time-consuming; the students interviewed in this piece cite time pressure as a major reason for their actions.",
+    "link": "https://www.npr.org/2019/04/10/710985799/contract-cheating-colleges-crack-down-on-ghostwritten-essays",
+    "title": "Ghost Writing"
   },
   "coconut": {
     "image": "08.jpg",
@@ -108,7 +109,7 @@
   "forward": {
     "image": "matthew-henry-136723-unsplash.jpg",
     "width": 1,
-    "text": "Research suggests that one-time cheaters are more likely than others to cheat in future; I hope I can be an exception to the rule. The intense negative emotions I've felt throughout the trial and restoration process have begun to fade, but I want to hold on to some part of them and use them to be better. I'm working on parts of my personality that I think led me astray - namely, an ability to feel a cool lack of urgency in the face of deadlines, and a sense that I deserve good grades.",
+    "text": "Research suggests that one-time cheaters are more likely than others to cheat in future; I hope I can be an exception to the rule. The intense negative emotions I've felt throughout the trial and restoration process have begun to fade, but I want to hold on to some part of them and use them to be better. I'm working on parts of my personality that I think led me astray - namely, an ability to feel a lack of urgency in the face of deadlines, and a sense that I deserve good grades.",
     "link": null,
     "title": "Moving forward"
   }
