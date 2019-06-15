@@ -23,7 +23,16 @@ section, summary, time, mark, audio, video {
 	border: 0;
 	font-size: 100%;
 	font: inherit;
-	vertical-align: baseline;}
+	vertical-align: baseline;
+}
+
+.item {
+	overflow-y: scroll;
+}
+
+.item::-webkit-scrollbar {
+	display: none;
+}
 
 article, aside, details, figcaption, figure,
 footer, header, hgroup, menu, nav, section {
@@ -580,10 +589,6 @@ input, select, textarea {
 						#main .item.intro p {
 							font-size: 1em;
 						}
-
-					#main .item.thumb h2 {
-						display: none;
-					}
 
 		}
 

@@ -6,29 +6,33 @@
     "link": "http://honorcouncil.haverford.edu/wp-content/uploads/2019/04/Monsters-University.pdf",
     "title": "My Case"
   },
-  "pumpkin": {
-    "image": "02.jpg",
+  "culture": {
+    "image": "McCabe_et_al.png",
     "width": 2,
-    "text": "Lorem ipsum",
-    "link": "https://www.google.com/"
+    "text": "Donald McCabe et. al. (2001) wrote a compelling literature review of research about academic dishonesty. A key takeway - \"It is not the mere existence of an honor code that is important in deterring college cheating. An effective honor code must be more than mere window dressing; a truly effective code must be well implemented and strongly embedded in the student culture.\"",
+    "link": "/assets/pdf/Cheating_in_Academic_Institutions",
+    "title": "Student culture and honor codes"
   },
-  "eggshell": {
-    "image": "03.jpg",
+  "percent": {
+    "image": "brooke-cagle-609873-unsplash.jpg",
     "width": 1,
-    "text": "Lorem ipsum",
-    "link": "https://www.google.com/"
+    "text": "It depends on who you ask. Taking a look at some of the academic papers on this site, reported numbers range from 50% to 80%. A number of factors dramatically influence that likelihood, including elements of student demographics and campus culture. For several reasons, including the liberal arts nature of academic programs, de-emphasis of grades, and strong community engagement with the Honor Code, I suspect that the proporton at Haverford is somewhat lower.",
+    "link": null,
+    "title": "How many students cheat?"
   },
-  "footprint": {
-    "image": "04.jpg",
+  "prevention": {
+    "image": "the-atlantic-notes.jpg",
     "width": 1,
-    "text": "Lorem ipsum",
-    "link": "https://www.google.com/"
+    "text": "James M. Lang, Associate Professor of English at Assumption College, wrote a book in 2013 in which he sought to present some solutions to combat academic dishonesty at the source. His answer? De-emphasize assessments and build \"self-efficacy\" - a student's belief that they are in control of their ability to do well.",
+    "link": "https://www.theatlantic.com/education/archive/2013/12/a-classroom-where-no-one-cheats/282254/",
+    "title": "How educators can prevent cheating"
   },
-  "cornfield": {
-    "image": "05.jpg",
+  "whiteboard": {
+    "image": "kaleidico-754525-unsplash.jpg",
     "width": 3,
-    "text": "Lorem ipsum",
-    "link": "https://www.google.com/"
+    "text": "Before my trial, I often collaborated on problems in quantitative subjects using paper. In retrospect, this made it harder to raise a mental barrier between collaborative notes and submitted work, and risked the confusion of the two. Since, I've been a big fan of finding rooms with whiteboards, working it out with my friends on that safe, separate surface, and wiping our collective slate clean before I head home.",
+    "link": null,
+    "title": "The whiteboard is a friend"
   },
   "tuba": {
     "image": "06.jpg",
@@ -36,17 +40,19 @@
     "text": "Lorem ipsum",
     "link": "https://www.google.com/"
   },
-  "pretzel": {
-    "image": "07.jpg",
+  "correlates1": {
+    "image": "Marsden_et_al.png",
     "width": 2,
-    "text": "Lorem ipsum",
-    "link": "https://www.google.com/"
+    "text": "A 2005 survey of Australian students attempted to determine demographic or personal factors correlated with dishonest behavior. Their findings? Men and students in higher grades are slightly more likely to be dishonest, and engineering students are substantially more so. However, such tangible factors overall only explain about 10% of the variance in dishonest behavior.",
+    "link": "/assets/pdf/Who_cheats.pdf",
+    "title": "Who cheats? (1)"
   },
-  "grapefruit": {
-    "image": "08.jpg",
+  "correlates2": {
+    "image": "tim-gouw-68319-unsplash.jpg",
     "width": 2,
-    "text": "Lorem ipsum",
-    "link": "https://www.google.com/"
+    "text": "A 2003 survey of American students attempted to answer similar questions to Marsden et al. They were able to explain 28% of cheating behavior, finding that later college years and fraternity/sorority membership were positively correlated with cheating. They also found that by far the most common type of cheating is \"Working in a group on a homework assignment that was assigned as individual work.\"",
+    "link": "https://www.sociology.org/ejs-archives/vol7.4/lambert_etal.html",
+    "title": "Who cheats? (2)"
   },
   "avocado": {
     "image": "05.jpg",
@@ -54,11 +60,12 @@
     "text": "Lorem ipsum",
     "link": "https://www.google.com/"
   },
-  "wristwatch": {
-    "image": "06.jpg",
+  "high": {
+    "image": "hidden-brain-cheating.jpg",
     "width": 1,
-    "text": "Lorem ipsum",
-    "link": "https://www.google.com/"
+    "text": "In this episode of NPR's Hidden Brain, Shankar Vedantam consults researchers on how feelings of entitlement make cheating more likely, and how cheaters can actually experience a positive emotional effect from getting away with it.",
+    "link": "https://www.npr.org/2016/06/28/483263713/the-cheaters-high-and-other-reasons-we-cheat",
+    "title": "Cheater's high"
   },
   "marbles": {
     "image": "07.jpg",
@@ -72,11 +79,12 @@
     "text": "Lorem ipsum",
     "link": "https://www.google.com/"
   },
-  "apricot": {
-    "image": "01.jpg",
+  "faculty": {
+    "image": "michal-parzuchowski-567121-unsplash.jpg",
     "width": 1,
-    "text": "Lorem ipsum",
-    "link": "https://www.google.com/"
+    "text": "A 2001 study reported that 40% of university faculty had ignored cheating, and that negative experiences confronting students left faculty more likely to ignore possible cheating. It is mentally draining and emotionally uncomfortable; faculty remain emotionally affected by cheating long after it occurs. In my own discussion with my professor months after my incident, I was deeply saddened to learn that my conduct had changed his level of trust toward his students.",
+    "link": "https://www.academia.edu/7582354/Turning_a_Blind_Eye_Faculty_Who_Ignore_Student_Cheating",
+    "title": "Cheating emotionally affects faculty"
   },
   "airplane": {
     "image": "02.jpg",
@@ -90,16 +98,18 @@
     "text": "Lorem ipsum",
     "link": "https://www.google.com/"
   },
-  "closet": {
-    "image": "04.jpg",
+  "bargain": {
+    "image": "the-atlantic-graduating.jpg",
     "width": 2,
-    "text": "Lorem ipsum",
-    "link": "https://www.google.com/"
+    "text": "This testimonial of a serial cheater hit close to home for me; his psychological justification of cheating he attributed to a particular thought process attested by research, and which I'd say influenced my own decision to be dishonest - the feeling that some social contract has been broken first by the educator.",
+    "link": "https://www.theatlantic.com/education/archive/2013/12/i-cheated-all-throughout-high-school/282566/",
+    "title": "A Cheater's Bargain"
   },
-  "tuxedo": {
-    "image": "05.jpg",
+  "forward": {
+    "image": "matthew-henry-136723-unsplash.jpg",
     "width": 1,
-    "text": "Lorem ipsum",
-    "link": "https://www.google.com/"
+    "text": "Research suggests that one-time cheaters are more likely than others to cheat in future; I hope I can be an exception to the rule. The intense negative emotions I've felt throughout the trial and restoration process have begun to fade, but I want to hold on to some part of them and use them to be better. I'm working on parts of my personality that I think led me astray - namely, an ability to feel a cool lack of urgency in the face of deadlines, and a sense that I deserve good grades.",
+    "link": null,
+    "title": "Moving forward"
   }
 }
