@@ -34,11 +34,12 @@
     "link": null,
     "title": "The whiteboard is a friend"
   },
-  "tuba": {
-    "image": "06.jpg",
+  "grad": {
+    "image": "sharon-mccutcheon-532782-unsplash.jpg",
     "width": 1,
-    "text": "Lorem ipsum",
-    "link": "https://www.google.com/"
+    "text": "Around the time that I was confronted by my professor, I was beginning to think more about graduate school options and getting excited for that eventuality. Now I feel a pit of sick terror in my stomach thinking about the subject. I never wanted to go right after undergrad; now I fear I simply never will if I'm too afraid to apply or think my top choices won't consider me. If a stupid decision impacts my life so dramatically, I'll feel angry with myself for the rest of my life.",
+    "link": null,
+    "title": "Grad school..."
   },
   "correlates1": {
     "image": "Marsden_et_al.png",
@@ -54,11 +55,12 @@
     "link": "https://www.sociology.org/ejs-archives/vol7.4/lambert_etal.html",
     "title": "Who cheats? (2)"
   },
-  "avocado": {
-    "image": "05.jpg",
+  "significance": {
+    "image": "chuttersnap-580675-unsplash.jpg",
     "width": 3,
-    "text": "Lorem ipsum",
-    "link": "https://www.google.com/"
+    "text": "Nature has given us a weird and irrational sense of what's dangerous. The human mind is titillated with fear by flying or zombie movies, yet we strap into frequently-fatal automobiles and cruise along the highway without a second thought. Similarly, while we may be kept awake at night by memories of harmlessly awkward moments, in the fray of an assignment the thought of our peers' reactions to insincere conduct can seem miles away.",
+    "link": null,
+    "title": "Significance"
   },
   "high": {
     "image": "hidden-brain-cheating.jpg",
