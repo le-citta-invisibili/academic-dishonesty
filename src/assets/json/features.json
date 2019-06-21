@@ -76,11 +76,12 @@
     "link": "https://www.npr.org/2019/04/10/710985799/contract-cheating-colleges-crack-down-on-ghostwritten-essays",
     "title": "Ghost Writing"
   },
-  "coconut": {
-    "image": "08.jpg",
+  "freedom": {
+    "image": "jessica-d-vega-1050270-unsplash.jpg",
     "width": 2,
-    "text": "Lorem ipsum",
-    "link": "https://www.google.com/"
+    "text": "Unpopular opinion: I don't like take-home exams. Never did. It's hard to focus late at night with friends hanging out next door. I don't have to take an exam in those conditions, but it takes mental and emotional energy to arrange not to, energy I could spend on studying itself. We see ourselves as rational beings; I see that as self-flattery, or a way to preserve the illusion of free will. In reality, resisting a chance to cheat will always be slightly harder than never having it. I wrote more on this topic in a letter enclosed at the end of my abstract.",
+    "link": null,
+    "title": "Do I want this freedom?"
   },
   "faculty": {
     "image": "michal-parzuchowski-567121-unsplash.jpg",
