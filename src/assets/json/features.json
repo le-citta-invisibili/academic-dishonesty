@@ -6,12 +6,12 @@
     "link": "http://honorcouncil.haverford.edu/wp-content/uploads/2019/04/Monsters-University.pdf",
     "title": "My Case"
   },
-  "culture": {
-    "image": "McCabe_et_al.png",
+  "project": {
+    "image": "neonbrand-304490-unsplash.jpg",
     "width": 2,
-    "text": "Donald McCabe et. al. (2001) wrote a compelling literature review of research about academic dishonesty. A key takeway - \"It is not the mere existence of an honor code that is important in deterring college cheating. An effective honor code must be more than mere window dressing; a truly effective code must be well implemented and strongly embedded in the student culture.\"",
-    "link": "/assets/pdf/Cheating_in_Academic_Institutions",
-    "title": "Student culture and honor codes"
+    "text": "The obvious conclusion from any academic honor council case is that academic dishonesty is always far from worth it. We've heard this repeatedly before; it's true, but maybe not new or interesting. I'd like to use my case and the scientific literature to understand academic dishonesty in a few new ways - the forms, the circumstances that contribute to it, the effect on academic communities, and the best ways to fortify ourselves against it.",
+    "link": null,
+    "title": "About the project"
   },
   "percent": {
     "image": "brooke-cagle-609873-unsplash.jpg",
@@ -90,17 +90,19 @@
     "link": "https://www.academia.edu/7582354/Turning_a_Blind_Eye_Faculty_Who_Ignore_Student_Cheating",
     "title": "Cheating emotionally affects faculty"
   },
-  "airplane": {
-    "image": "02.jpg",
+  "departments": {
+    "image": "ben-mullins-785450-unsplash.jpg",
     "width": 2,
-    "text": "Lorem ipsum",
-    "link": "https://www.google.com/"
+    "text": "I suspect that lack of familiarity with a department's practices may be a contributing factor to semi-intentional misconduct. Until you've experienced a few assignments administered in a particular way, it can be tough to judge the importance of a rule, or to develop the habits necessary to succeed under the constraints. My misconduct was in a department I'd only taken once before; I don't get many timed take-home exams, and rarely if ever essay-writing exams. It's tougher to grind through essays than equations late at night; I'm not sure I was well-prepared for that.",
+    "link": null,
+    "title": "Departmental habits"
   },
-  "chameleon": {
-    "image": "03.jpg",
+  "culture": {
+    "image": "McCabe_et_al.png",
     "width": 1,
-    "text": "Lorem ipsum",
-    "link": "https://www.google.com/"
+    "text": "Donald McCabe et. al. (2001) wrote a compelling literature review of research about academic dishonesty. A key takeway - \"It is not the mere existence of an honor code that is important in deterring college cheating. An effective honor code must be more than mere window dressing; a truly effective code must be well implemented and strongly embedded in the student culture.\"",
+    "link": "/assets/pdf/Cheating_in_Academic_Institutions",
+    "title": "Student culture and honor codes"
   },
   "bargain": {
     "image": "the-atlantic-graduating.jpg",
